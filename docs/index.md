@@ -1,6 +1,6 @@
 # Resoluções DMA
 
-Estão dispostas aqui as resoluções do Departamento de Matemática da Universidade Estadual de Maringá.
+* Estão dispostas aqui as resoluções do Departamento de Matemática da Universidade Estadual de Maringá.
 
 ## Barra de Busca
 
